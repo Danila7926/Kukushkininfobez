@@ -5,3 +5,5 @@ https://docs.google.com/document/d/1xib4R77q-bSU2_IjIrW7nSJdd5qT48HonuRmGC3hsak/
 
 python
 https://docs.google.com/document/d/1-bVkNnMndmV23f10qrRc9JrF3Mcg5yAQ0x6C32IVW0c/edit?usp=sharing
+конспекты питон
+https://docs.google.com/document/d/1V-bWmMah4YWzX178Yz6NildQ6j32TZt2mq6AP9Mh68Y/edit?usp=sharing
