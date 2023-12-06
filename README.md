@@ -7,5 +7,8 @@ python
 https://docs.google.com/document/d/1-bVkNnMndmV23f10qrRc9JrF3Mcg5yAQ0x6C32IVW0c/edit?usp=sharing
 конспекты питон
 https://docs.google.com/document/d/1V-bWmMah4YWzX178Yz6NildQ6j32TZt2mq6AP9Mh68Y/edit?usp=sharing
-python #модуль 2
+python 
+#модуль 2
 https://docs.google.com/document/d/1KYBE9XTTPFbXZmMDTsZkKKUsh05JAmMjpmQ9XqHRxWM/edit?usp=sharing
+#модуль 3
+https://docs.google.com/document/d/1BKdHqBvA11v6DMKNNPLXzloFmFJCZFZ4MHCN_uBJ8no/edit?usp=sharing
