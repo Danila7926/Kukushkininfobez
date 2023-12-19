@@ -12,3 +12,5 @@ python
 https://docs.google.com/document/d/1KYBE9XTTPFbXZmMDTsZkKKUsh05JAmMjpmQ9XqHRxWM/edit?usp=sharing
 #модуль 3
 https://docs.google.com/document/d/1BKdHqBvA11v6DMKNNPLXzloFmFJCZFZ4MHCN_uBJ8no/edit?usp=sharing
+сайт аренды авто
+http://d7926.tilda.ws/page41911525.html
