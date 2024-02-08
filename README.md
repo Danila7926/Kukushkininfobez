@@ -14,3 +14,5 @@ https://docs.google.com/document/d/1KYBE9XTTPFbXZmMDTsZkKKUsh05JAmMjpmQ9XqHRxWM/
 https://docs.google.com/document/d/1BKdHqBvA11v6DMKNNPLXzloFmFJCZFZ4MHCN_uBJ8no/edit?usp=sharing
 сайт аренды авто
 http://d7926.tilda.ws/page41911525.html
+документ с ир-диаграммой
+https://docs.google.com/document/d/1UYiet22pRJRrS3Pgre7kKkfQwI0RTzJ0CS9iJdOci0U/edit?usp=sharing
