@@ -17,4 +17,4 @@ http://d7926.tilda.ws/page41911525.html
 документ с ир-диаграммой
 https://docs.google.com/document/d/1UYiet22pRJRrS3Pgre7kKkfQwI0RTzJ0CS9iJdOci0U/edit?usp=sharing
 
-[Stepik1](https://danila7926.github.io/Kukushkininfobez/stepik 1.1)
+[Stepik1](https://danila7926.github.io/Kukushkininfobez/stepik-1.1)
