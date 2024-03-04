@@ -21,4 +21,4 @@ https://docs.google.com/document/d/1UYiet22pRJRrS3Pgre7kKkfQwI0RTzJ0CS9iJdOci0U/
 [Stepik1.5](https://danila7926.github.io/Kukushkininfobez/stepik-1.5)
 [Stepik2](https://danila7926.github.io/Kukushkininfobez/Stepik_2)
 скрипт![image](https://github.com/Danila7926/Kukushkininfobez/assets/145664647/e6ae2f2b-9fc6-45fa-9ccf-f6ae72f81d0a)
-скрипт![image](https://github.com/Danila7926/Kukushkininfobez/assets/145664647/a8308be8-6599-405d-85b0-d0de3d201b00)
+
