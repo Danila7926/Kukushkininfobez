@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T07:28:27.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="Z8uY76bzFZsLk-KIIGjF" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T07:37:29.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="YOFS4M3o3h6DeMG-K8jp" version="24.0.0" type="github" pages="2">
   <diagram name="Страница — 1" id="ZogXeYmooh8t7bpbcheT">
     <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,38 @@
         </mxCell>
         <mxCell id="iGr0gWm3rqL_3sZkjvQP-12" value="напечатание ковра" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iGr0gWm3rqL_3sZkjvQP-11">
           <mxGeometry x="35" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_XVkuDTS4KUdPqtx8VtZ" name="Страница — 2">
+    <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JcW_yDwxoMLmMqkjjRvK-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JcW_yDwxoMLmMqkjjRvK-2" value="Функция(согласные)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JcW_yDwxoMLmMqkjjRvK-1">
+          <mxGeometry x="20" y="5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JcW_yDwxoMLmMqkjjRvK-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JcW_yDwxoMLmMqkjjRvK-4" value="если согласные на четной позиции то count +1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="158" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JcW_yDwxoMLmMqkjjRvK-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JcW_yDwxoMLmMqkjjRvK-6" value="получение значения функции" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JcW_yDwxoMLmMqkjjRvK-5">
+          <mxGeometry y="10" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JcW_yDwxoMLmMqkjjRvK-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JcW_yDwxoMLmMqkjjRvK-8" value="вывод фразы в скобках(count)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JcW_yDwxoMLmMqkjjRvK-7">
+          <mxGeometry x="5" y="15" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
