@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T08:12:49.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="OmdFJCmuGno3NnI01PmA" version="24.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-29T08:15:49.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="xbx4M-Me3mHfjLeZrh9O" version="24.0.0" type="github" pages="3">
   <diagram name="Страница — 1" id="ZogXeYmooh8t7bpbcheT">
     <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,10 +99,16 @@
           <mxGeometry x="2.5" y="10" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zLEuObvtYOeps1ad_l0z-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="228" y="410" width="200" height="40" as="geometry" />
+          <mxGeometry x="180" y="410" width="323" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zLEuObvtYOeps1ad_l0z-6" value="возращение значения функции&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zLEuObvtYOeps1ad_l0z-5">
-          <mxGeometry y="10" width="200" height="30" as="geometry" />
+        <mxCell id="zLEuObvtYOeps1ad_l0z-6" value="возращение значения функции в сравнение переборе" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zLEuObvtYOeps1ad_l0z-5">
+          <mxGeometry y="5" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEuObvtYOeps1ad_l0z-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="244.38" y="460" width="151.25" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEuObvtYOeps1ad_l0z-9" value="еще ошибка" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zLEuObvtYOeps1ad_l0z-8">
+          <mxGeometry x="30.63" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
