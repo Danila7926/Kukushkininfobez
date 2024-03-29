@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T08:08:34.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="qbLy6s_aRs7SvO8Xvtvu" version="24.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-29T08:12:49.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="OmdFJCmuGno3NnI01PmA" version="24.0.0" type="github" pages="3">
   <diagram name="Страница — 1" id="ZogXeYmooh8t7bpbcheT">
     <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,6 +91,18 @@
         </mxCell>
         <mxCell id="zLEuObvtYOeps1ad_l0z-2" value="создание сортировка сравнение перебор в списке строке словаре" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zLEuObvtYOeps1ad_l0z-1">
           <mxGeometry width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEuObvtYOeps1ad_l0z-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="322.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEuObvtYOeps1ad_l0z-4" value="иначе проверяемый экземпляром указанного класса" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zLEuObvtYOeps1ad_l0z-3">
+          <mxGeometry x="2.5" y="10" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEuObvtYOeps1ad_l0z-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="228" y="410" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zLEuObvtYOeps1ad_l0z-6" value="возращение значения функции&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zLEuObvtYOeps1ad_l0z-5">
+          <mxGeometry y="10" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
