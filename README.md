@@ -21,3 +21,4 @@ https://docs.google.com/document/d/1UYiet22pRJRrS3Pgre7kKkfQwI0RTzJ0CS9iJdOci0U/
 [Stepik1.5](https://danila7926.github.io/Kukushkininfobez/stepik-1.5)
 [Stepik2](https://danila7926.github.io/Kukushkininfobez/Stepik_2)
 https://docs.google.com/document/d/1fTbC6Er7xbPqw68AduhfWEudGLkUJ04ZGrGMROHxyOo/edit?usp=sharing
+https://docs.google.com/document/d/1RwXcFwD3kcIys-dLlLAueXSwg9bOl-D03NeYpBYS2sc/edit?usp=drivesdk
