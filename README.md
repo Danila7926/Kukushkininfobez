@@ -24,3 +24,4 @@ https://docs.google.com/document/d/1fTbC6Er7xbPqw68AduhfWEudGLkUJ04ZGrGMROHxyOo/
 https://docs.google.com/document/d/1RwXcFwD3kcIys-dLlLAueXSwg9bOl-D03NeYpBYS2sc/edit?usp=drivesdk
 гугл документ база данных https://docs.google.com/document/d/1z-jOg-v-h_h1XKOTRiWvItMZV9VgNOZtr5gwVoWBPA8/edit?usp=sharing
 таблица продукция db SQLite https://docs.google.com/document/d/14N9S-kpKB9nIH7spt-ShaGut-qOL3Ha1bbWziHPKXxA/edit?usp=sharing
+файлы запросов https://drive.google.com/drive/folders/1mRDQZLO5DGLpwa_IxbFOogkIOsm963Bh?usp=drive_link
